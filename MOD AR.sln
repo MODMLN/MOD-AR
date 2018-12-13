@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD AR", "MOD AR.csproj", "{7491ABDC-645F-BC2E-96BE-3C13DC3EFE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD AR.Editor", "MOD AR.Editor.csproj", "{51FC0FE0-0B90-765A-BE7A-2981BCFAEB79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7491ABDC-645F-BC2E-96BE-3C13DC3EFE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7491ABDC-645F-BC2E-96BE-3C13DC3EFE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7491ABDC-645F-BC2E-96BE-3C13DC3EFE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7491ABDC-645F-BC2E-96BE-3C13DC3EFE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FC0FE0-0B90-765A-BE7A-2981BCFAEB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FC0FE0-0B90-765A-BE7A-2981BCFAEB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FC0FE0-0B90-765A-BE7A-2981BCFAEB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FC0FE0-0B90-765A-BE7A-2981BCFAEB79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

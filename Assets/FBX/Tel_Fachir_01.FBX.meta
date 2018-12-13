@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 0078c22419a323546821afc6010efb8e
+timeCreated: 1503922573
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy001
+    100002: Dummy002
+    100004: Dummy003
+    100006: Object001
+    100008: Object002
+    100010: Object003
+    100012: Object004
+    100014: Object005
+    100016: Object006
+    100018: Object007
+    100020: Object008
+    100022: Object009
+    100024: Object010
+    100026: Object011
+    100028: Object012
+    100030: Object013
+    100032: Object014
+    100034: Object015
+    100036: Object016
+    100038: Object017
+    100040: Object018
+    100042: Object019
+    100044: Object020
+    100046: Object021
+    100048: Object022
+    100050: Object023
+    100052: Object024
+    100054: Object025
+    100056: Object026
+    100058: Object027
+    100060: Object028
+    100062: Object029
+    100064: Object030
+    100066: Object031
+    100068: Object032
+    100070: Object033
+    100072: Object034
+    100074: Object035
+    100076: Object036
+    100078: Object037
+    100080: Object127
+    100082: Plane004
+    100084: Plane006
+    100086: Plane007
+    100088: Plane018
+    100090: Plane019
+    100092: //RootNode
+    100094: Text002
+    400000: Dummy001
+    400002: Dummy002
+    400004: Dummy003
+    400006: Object001
+    400008: Object002
+    400010: Object003
+    400012: Object004
+    400014: Object005
+    400016: Object006
+    400018: Object007
+    400020: Object008
+    400022: Object009
+    400024: Object010
+    400026: Object011
+    400028: Object012
+    400030: Object013
+    400032: Object014
+    400034: Object015
+    400036: Object016
+    400038: Object017
+    400040: Object018
+    400042: Object019
+    400044: Object020
+    400046: Object021
+    400048: Object022
+    400050: Object023
+    400052: Object024
+    400054: Object025
+    400056: Object026
+    400058: Object027
+    400060: Object028
+    400062: Object029
+    400064: Object030
+    400066: Object031
+    400068: Object032
+    400070: Object033
+    400072: Object034
+    400074: Object035
+    400076: Object036
+    400078: Object037
+    400080: Object127
+    400082: Plane004
+    400084: Plane006
+    400086: Plane007
+    400088: Plane018
+    400090: Plane019
+    400092: //RootNode
+    400094: Text002
+    2300000: Object001
+    2300002: Object002
+    2300004: Object003
+    2300006: Object004
+    2300008: Object005
+    2300010: Object006
+    2300012: Object007
+    2300014: Object008
+    2300016: Object009
+    2300018: Object010
+    2300020: Object011
+    2300022: Object012
+    2300024: Object013
+    2300026: Object014
+    2300028: Object015
+    2300030: Object016
+    2300032: Object017
+    2300034: Object018
+    2300036: Object019
+    2300038: Object020
+    2300040: Object021
+    2300042: Object022
+    2300044: Object023
+    2300046: Object024
+    2300048: Object025
+    2300050: Object026
+    2300052: Object027
+    2300054: Object028
+    2300056: Object029
+    2300058: Object030
+    2300060: Object031
+    2300062: Object032
+    2300064: Object033
+    2300066: Object034
+    2300068: Object035
+    2300070: Object036
+    2300072: Object037
+    2300074: Object127
+    2300076: Plane004
+    2300078: Plane006
+    2300080: Plane007
+    2300082: Plane018
+    2300084: Plane019
+    2300086: Text002
+    3300000: Object001
+    3300002: Object002
+    3300004: Object003
+    3300006: Object004
+    3300008: Object005
+    3300010: Object006
+    3300012: Object007
+    3300014: Object008
+    3300016: Object009
+    3300018: Object010
+    3300020: Object011
+    3300022: Object012
+    3300024: Object013
+    3300026: Object014
+    3300028: Object015
+    3300030: Object016
+    3300032: Object017
+    3300034: Object018
+    3300036: Object019
+    3300038: Object020
+    3300040: Object021
+    3300042: Object022
+    3300044: Object023
+    3300046: Object024
+    3300048: Object025
+    3300050: Object026
+    3300052: Object027
+    3300054: Object028
+    3300056: Object029
+    3300058: Object030
+    3300060: Object031
+    3300062: Object032
+    3300064: Object033
+    3300066: Object034
+    3300068: Object035
+    3300070: Object036
+    3300072: Object037
+    3300074: Object127
+    3300076: Plane004
+    3300078: Plane006
+    3300080: Plane007
+    3300082: Plane018
+    3300084: Plane019
+    3300086: Text002
+    4300000: Plane018
+    4300002: Object007
+    4300004: Object006
+    4300006: Object005
+    4300008: Object008
+    4300010: Plane006
+    4300012: Object004
+    4300014: Object003
+    4300016: Object002
+    4300018: Object001
+    4300020: Text002
+    4300022: Object013
+    4300024: Object012
+    4300026: Object011
+    4300028: Object010
+    4300030: Object009
+    4300032: Object014
+    4300034: Object015
+    4300036: Object016
+    4300038: Object017
+    4300040: Plane007
+    4300042: Object018
+    4300044: Object019
+    4300046: Object021
+    4300048: Object020
+    4300050: Plane019
+    4300052: Object026
+    4300054: Object025
+    4300056: Object024
+    4300058: Object022
+    4300060: Object023
+    4300062: Object034
+    4300064: Object033
+    4300066: Object032
+    4300068: Object031
+    4300070: Object030
+    4300072: Object029
+    4300074: Object028
+    4300076: Object027
+    4300078: Object035
+    4300080: Object036
+    4300082: Object037
+    4300084: Plane004
+    4300086: Object127
+    7400000: Text
+    7400002: Fold
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Text
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy001
+        weight: 1
+      - path: Dummy001/Object013
+        weight: 1
+      - path: Dummy001/Object013/Object012
+        weight: 1
+      - path: Dummy001/Object013/Object012/Object011
+        weight: 1
+      - path: Dummy001/Object013/Object012/Object011/Object010
+        weight: 1
+      - path: Dummy001/Object013/Object012/Object011/Object010/Object009
+        weight: 1
+      - path: Dummy001/Object014
+        weight: 1
+      - path: Dummy001/Object014/Object015
+        weight: 1
+      - path: Dummy001/Object014/Object015/Object016
+        weight: 1
+      - path: Dummy001/Object014/Object015/Object016/Object017
+        weight: 1
+      - path: Dummy001/Object014/Object015/Object016/Object017/Plane007
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Object018
+        weight: 1
+      - path: Dummy002/Object018/Object019
+        weight: 1
+      - path: Dummy002/Object018/Object019/Object021
+        weight: 1
+      - path: Dummy002/Object018/Object019/Object021/Object020
+        weight: 1
+      - path: Dummy002/Object018/Object019/Object021/Object020/Plane019
+        weight: 1
+      - path: Dummy002/Object026
+        weight: 1
+      - path: Dummy002/Object026/Object025
+        weight: 1
+      - path: Dummy002/Object026/Object025/Object024
+        weight: 1
+      - path: Dummy002/Object026/Object025/Object024/Object022
+        weight: 1
+      - path: Dummy002/Object026/Object025/Object024/Object022/Object023
+        weight: 1
+      - path: Dummy003
+        weight: 1
+      - path: Dummy003/Object034
+        weight: 1
+      - path: Dummy003/Object034/Object033
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031/Object030
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031/Object030/Object029
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031/Object030/Object029/Object028
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031/Object030/Object029/Object028/Object027
+        weight: 1
+      - path: Dummy003/Object035
+        weight: 1
+      - path: Dummy003/Object035/Object036
+        weight: 1
+      - path: Dummy003/Object035/Object036/Object037
+        weight: 1
+      - path: Dummy003/Object035/Object036/Object037/Plane004
+        weight: 1
+      - path: Object004
+        weight: 1
+      - path: Object004/Object003
+        weight: 1
+      - path: Object004/Object003/Object002
+        weight: 1
+      - path: Object004/Object003/Object002/Object001
+        weight: 1
+      - path: Object004/Plane006
+        weight: 1
+      - path: Object007
+        weight: 1
+      - path: Object007/Object006
+        weight: 1
+      - path: Object007/Object006/Object005
+        weight: 1
+      - path: Object007/Object006/Object005/Object008
+        weight: 1
+      - path: Object007/Plane018
+        weight: 1
+      - path: Object127
+        weight: 1
+      - path: Text002
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fold
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 123.000015
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy001
+        weight: 1
+      - path: Dummy001/Object013
+        weight: 1
+      - path: Dummy001/Object013/Object012
+        weight: 1
+      - path: Dummy001/Object013/Object012/Object011
+        weight: 1
+      - path: Dummy001/Object013/Object012/Object011/Object010
+        weight: 1
+      - path: Dummy001/Object013/Object012/Object011/Object010/Object009
+        weight: 1
+      - path: Dummy001/Object014
+        weight: 1
+      - path: Dummy001/Object014/Object015
+        weight: 1
+      - path: Dummy001/Object014/Object015/Object016
+        weight: 1
+      - path: Dummy001/Object014/Object015/Object016/Object017
+        weight: 1
+      - path: Dummy001/Object014/Object015/Object016/Object017/Plane007
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Object018
+        weight: 1
+      - path: Dummy002/Object018/Object019
+        weight: 1
+      - path: Dummy002/Object018/Object019/Object021
+        weight: 1
+      - path: Dummy002/Object018/Object019/Object021/Object020
+        weight: 1
+      - path: Dummy002/Object018/Object019/Object021/Object020/Plane019
+        weight: 1
+      - path: Dummy002/Object026
+        weight: 1
+      - path: Dummy002/Object026/Object025
+        weight: 1
+      - path: Dummy002/Object026/Object025/Object024
+        weight: 1
+      - path: Dummy002/Object026/Object025/Object024/Object022
+        weight: 1
+      - path: Dummy002/Object026/Object025/Object024/Object022/Object023
+        weight: 1
+      - path: Dummy003
+        weight: 1
+      - path: Dummy003/Object034
+        weight: 1
+      - path: Dummy003/Object034/Object033
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031/Object030
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031/Object030/Object029
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031/Object030/Object029/Object028
+        weight: 1
+      - path: Dummy003/Object034/Object033/Object032/Object031/Object030/Object029/Object028/Object027
+        weight: 1
+      - path: Dummy003/Object035
+        weight: 1
+      - path: Dummy003/Object035/Object036
+        weight: 1
+      - path: Dummy003/Object035/Object036/Object037
+        weight: 1
+      - path: Dummy003/Object035/Object036/Object037/Plane004
+        weight: 1
+      - path: Object004
+        weight: 1
+      - path: Object004/Object003
+        weight: 1
+      - path: Object004/Object003/Object002
+        weight: 1
+      - path: Object004/Object003/Object002/Object001
+        weight: 1
+      - path: Object004/Plane006
+        weight: 1
+      - path: Object007
+        weight: 1
+      - path: Object007/Object006
+        weight: 1
+      - path: Object007/Object006/Object005
+        weight: 1
+      - path: Object007/Object006/Object005/Object008
+        weight: 1
+      - path: Object007/Plane018
+        weight: 1
+      - path: Object127
+        weight: 1
+      - path: Text002
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

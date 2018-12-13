@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: a595d05405b983741b8ac200211ce633
+timeCreated: 1503922575
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Object106
+    100004: Object107
+    100006: Object108
+    100008: Object109
+    100010: Object110
+    100012: Object119
+    100014: Object120
+    100016: Object121
+    100018: Object122
+    100020: Object123
+    100022: Object124
+    100024: Object136
+    100026: Object137
+    100028: Object138
+    100030: Object139
+    100032: Object140
+    100034: Object141
+    100036: Object142
+    100038: Object143
+    100040: //RootNode
+    100042: Plane002
+    100044: Plane021
+    100046: Plane023
+    100048: Plane024
+    100050: Text001
+    400000: Box001
+    400002: Object106
+    400004: Object107
+    400006: Object108
+    400008: Object109
+    400010: Object110
+    400012: Object119
+    400014: Object120
+    400016: Object121
+    400018: Object122
+    400020: Object123
+    400022: Object124
+    400024: Object136
+    400026: Object137
+    400028: Object138
+    400030: Object139
+    400032: Object140
+    400034: Object141
+    400036: Object142
+    400038: Object143
+    400040: //RootNode
+    400042: Plane002
+    400044: Plane021
+    400046: Plane023
+    400048: Plane024
+    400050: Text001
+    2300000: Box001
+    2300002: Object106
+    2300004: Object107
+    2300006: Object108
+    2300008: Object109
+    2300010: Object110
+    2300012: Object119
+    2300014: Object120
+    2300016: Object121
+    2300018: Object122
+    2300020: Object123
+    2300022: Object124
+    2300024: Object136
+    2300026: Object137
+    2300028: Object138
+    2300030: Object139
+    2300032: Object140
+    2300034: Object141
+    2300036: Object142
+    2300038: Object143
+    2300040: Plane002
+    2300042: Text001
+    3300000: Box001
+    3300002: Object106
+    3300004: Object107
+    3300006: Object108
+    3300008: Object109
+    3300010: Object110
+    3300012: Object119
+    3300014: Object120
+    3300016: Object121
+    3300018: Object122
+    3300020: Object123
+    3300022: Object124
+    3300024: Object136
+    3300026: Object137
+    3300028: Object138
+    3300030: Object139
+    3300032: Object140
+    3300034: Object141
+    3300036: Object142
+    3300038: Object143
+    3300040: Plane002
+    3300042: Text001
+    4300000: Text001
+    4300002: Plane002
+    4300004: Object109
+    4300006: Object108
+    4300008: Object107
+    4300010: Object106
+    4300012: Box001
+    4300014: Object124
+    4300016: Object123
+    4300018: Object122
+    4300020: Object121
+    4300022: Object120
+    4300024: Object119
+    4300026: Object110
+    4300028: Object137
+    4300030: Object138
+    4300032: Object139
+    4300034: Object142
+    4300036: Object143
+    4300038: Object136
+    4300040: Object140
+    4300042: Object141
+    7400000: Text
+    7400002: Fold
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Text
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/Object119
+        weight: 1
+      - path: Box001/Object120
+        weight: 1
+      - path: Box001/Object121
+        weight: 1
+      - path: Box001/Object122
+        weight: 1
+      - path: Box001/Object123
+        weight: 1
+      - path: Box001/Object124
+        weight: 1
+      - path: Object137
+        weight: 1
+      - path: Object137/Object138
+        weight: 1
+      - path: Object137/Object138/Object139
+        weight: 1
+      - path: Object137/Object138/Object139/Object142
+        weight: 1
+      - path: Object137/Object138/Object139/Object142/Object143
+        weight: 1
+      - path: Object137/Object138/Object139/Object142/Object143/Object136
+        weight: 1
+      - path: Object137/Object140
+        weight: 1
+      - path: Object137/Object140/Object141
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Object109
+        weight: 1
+      - path: Plane002/Object109/Object108
+        weight: 1
+      - path: Plane002/Object109/Object108/Object107
+        weight: 1
+      - path: Plane002/Object109/Object108/Object107/Object106
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane023
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Text001
+        weight: 1
+      - path: Text001/Object110
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fold
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/Object119
+        weight: 1
+      - path: Box001/Object120
+        weight: 1
+      - path: Box001/Object121
+        weight: 1
+      - path: Box001/Object122
+        weight: 1
+      - path: Box001/Object123
+        weight: 1
+      - path: Box001/Object124
+        weight: 1
+      - path: Object137
+        weight: 1
+      - path: Object137/Object138
+        weight: 1
+      - path: Object137/Object138/Object139
+        weight: 1
+      - path: Object137/Object138/Object139/Object142
+        weight: 1
+      - path: Object137/Object138/Object139/Object142/Object143
+        weight: 1
+      - path: Object137/Object138/Object139/Object142/Object143/Object136
+        weight: 1
+      - path: Object137/Object140
+        weight: 1
+      - path: Object137/Object140/Object141
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Object109
+        weight: 1
+      - path: Plane002/Object109/Object108
+        weight: 1
+      - path: Plane002/Object109/Object108/Object107
+        weight: 1
+      - path: Plane002/Object109/Object108/Object107/Object106
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane023
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Text001
+        weight: 1
+      - path: Text001/Object110
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

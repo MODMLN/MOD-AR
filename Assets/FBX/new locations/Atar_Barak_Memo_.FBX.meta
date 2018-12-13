@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 23cfe3d0bc47efd4389446b6a56f1d6a
+timeCreated: 1504443308
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dummy004
+    100004: Object052
+    100006: Object053
+    100008: Object054
+    100010: Object055
+    100012: Object056
+    100014: Object057
+    100016: Object058
+    100018: Object059
+    100020: Object060
+    100022: Object061
+    100024: Object062
+    100026: Object063
+    100028: Object072
+    100030: Object073
+    100032: Object074
+    100034: Object160
+    100036: Object161
+    100038: Object162
+    100040: Object163
+    100042: Object164
+    100044: Object165
+    100046: Object166
+    100048: Object167
+    100050: Plane012
+    100052: Plane020
+    400000: //RootNode
+    400002: Dummy004
+    400004: Object052
+    400006: Object053
+    400008: Object054
+    400010: Object055
+    400012: Object056
+    400014: Object057
+    400016: Object058
+    400018: Object059
+    400020: Object060
+    400022: Object061
+    400024: Object062
+    400026: Object063
+    400028: Object072
+    400030: Object073
+    400032: Object074
+    400034: Object160
+    400036: Object161
+    400038: Object162
+    400040: Object163
+    400042: Object164
+    400044: Object165
+    400046: Object166
+    400048: Object167
+    400050: Plane012
+    400052: Plane020
+    2300000: Object052
+    2300002: Object053
+    2300004: Object054
+    2300006: Object055
+    2300008: Object056
+    2300010: Object057
+    2300012: Object058
+    2300014: Object059
+    2300016: Object060
+    2300018: Object061
+    2300020: Object062
+    2300022: Object063
+    2300024: Object072
+    2300026: Object073
+    2300028: Object074
+    2300030: Object160
+    2300032: Object161
+    2300034: Object162
+    2300036: Object163
+    2300038: Object164
+    2300040: Object165
+    2300042: Object166
+    2300044: Object167
+    2300046: Plane012
+    2300048: Plane020
+    3300000: Object052
+    3300002: Object053
+    3300004: Object054
+    3300006: Object055
+    3300008: Object056
+    3300010: Object057
+    3300012: Object058
+    3300014: Object059
+    3300016: Object060
+    3300018: Object061
+    3300020: Object062
+    3300022: Object063
+    3300024: Object072
+    3300026: Object073
+    3300028: Object074
+    3300030: Object160
+    3300032: Object161
+    3300034: Object162
+    3300036: Object163
+    3300038: Object164
+    3300040: Object165
+    3300042: Object166
+    3300044: Object167
+    3300046: Plane012
+    3300048: Plane020
+    4300000: Object053
+    4300002: Object054
+    4300004: Object055
+    4300006: Object056
+    4300008: Object057
+    4300010: Object058
+    4300012: Object059
+    4300014: Object052
+    4300016: Plane020
+    4300018: Object062
+    4300020: Object061
+    4300022: Object063
+    4300024: Object060
+    4300026: Plane012
+    4300028: Object073
+    4300030: Object072
+    4300032: Object074
+    4300034: Object161
+    4300036: Object163
+    4300038: Object165
+    4300040: Object164
+    4300042: Object162
+    4300044: Object166
+    4300046: Object167
+    4300048: Object160
+    7400000: Fold
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fold
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy004
+        weight: 1
+      - path: Dummy004/Plane012
+        weight: 1
+      - path: Dummy004/Plane012/Object073
+        weight: 1
+      - path: Dummy004/Plane012/Object073/Object072
+        weight: 1
+      - path: Dummy004/Plane012/Object074
+        weight: 1
+      - path: Object053
+        weight: 1
+      - path: Object053/Object052
+        weight: 1
+      - path: Object053/Object054
+        weight: 1
+      - path: Object053/Object054/Object055
+        weight: 1
+      - path: Object053/Object054/Object055/Object056
+        weight: 1
+      - path: Object053/Object054/Object055/Object056/Object057
+        weight: 1
+      - path: Object053/Object054/Object055/Object056/Object057/Object058
+        weight: 1
+      - path: Object053/Object054/Object055/Object056/Object057/Object058/Object059
+        weight: 1
+      - path: Object161
+        weight: 1
+      - path: Object161/Object163
+        weight: 1
+      - path: Object161/Object165
+        weight: 1
+      - path: Object161/Object165/Object164
+        weight: 1
+      - path: Object161/Object165/Object164/Object162
+        weight: 1
+      - path: Object161/Object165/Object164/Object162/Object166
+        weight: 1
+      - path: Object161/Object165/Object164/Object162/Object166/Object167
+        weight: 1
+      - path: Object161/Object165/Object164/Object162/Object166/Object167/Object160
+        weight: 1
+      - path: Plane020
+        weight: 1
+      - path: Plane020/Object062
+        weight: 1
+      - path: Plane020/Object062/Object061
+        weight: 1
+      - path: Plane020/Object062/Object061/Object063
+        weight: 1
+      - path: Plane020/Object062/Object061/Object063/Object060
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

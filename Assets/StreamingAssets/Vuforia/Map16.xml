@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Map_With_Tree_bootom" size="680.000000 457.309937" />
+    <ImageTarget name="Map_With_Tree_Mid" size="680.000000 457.309937" />
+    <ImageTarget name="Map_With_Tree_Top" size="680.000000 457.309937" />
+    <ImageTarget name="Map_With_Trees3" size="680.000000 1374.481445" />
+  </Tracking>
+</QCARConfig>
